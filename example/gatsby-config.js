@@ -15,7 +15,7 @@ module.exports = {
         showDescriptionInSidebar: true,
         showThemeInfo: true,
         logo:
-        'https://raw.githubusercontent.com/mrmartineau/gatsby-theme-code-notes/master/assets/logo.png',
+        'https://avatars.githubusercontent.com/u/19406290',
         openSearch: {
           siteShortName: `Insutanto Code Notes`,
           siteUrl: 'https://programming.insutanto.net',
