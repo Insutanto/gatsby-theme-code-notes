@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Code notes',
-    description: 'A Gatsby theme for storing your code-related notes',
-    keywords: [],
+    title: "Insutanto's Code Notes",
+    description: 'Insutanto的技术笔记',
+    keywords: ["insutanto", "techlead", "programming", "backend", "java", "python"],
   },
   plugins: [
     {
@@ -15,16 +15,16 @@ module.exports = {
         showDescriptionInSidebar: true,
         showThemeInfo: true,
         logo:
-          'https://raw.githubusercontent.com/mrmartineau/gatsby-theme-code-notes/master/assets/logo.png',
+        'https://raw.githubusercontent.com/mrmartineau/gatsby-theme-code-notes/master/assets/logo.png',
         openSearch: {
-          siteShortName: `Gatsby Theme Code Notes Example`,
-          siteUrl: 'https://code-notes-example.netlify.app',
-          siteTags: 'front-end',
-          siteContact: 'https://twitter.com/MrMartineau',
-          siteDescription: 'A Gatsby theme for storing your code-related notes',
+          siteShortName: `Insutanto Code Notes`,
+          siteUrl: 'https://programming.insutanto.net',
+          siteTags: 'programming',
+          siteContact: 'https://twitter.com/insutantow',
+          siteDescription: 'Insutanto Code Notes',
         },
         showDate: true,
       },
-    },
+    }
   ],
 }
