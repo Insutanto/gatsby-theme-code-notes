@@ -1,6 +1,7 @@
 ---
 title: 康威：委员会是如何产生的？
 emoji: 🧘‍♂️
+link: 'http://www.melconway.com/Home/pdf/committees.pdf'
 tags: 
   - system design
   - translation
