@@ -35,7 +35,7 @@ export const TagList: FunctionComponent<TagListProps> = ({
         if (item === 'untagged') {
           return null
         }
-        const tagName = slugify(item)
+        const tagName = item
         const tagColor = getColourFromString(tagName)
         const tagLink =
           basePath === '/' ? `/tag/${tagName}` : `${basePath}/tag/${tagName}`

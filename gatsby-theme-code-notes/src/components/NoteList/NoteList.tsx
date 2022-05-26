@@ -48,7 +48,7 @@ export const NoteList: FunctionComponent<NoteListProps> = ({ notes }) => {
           modified,
           modifiedTimestamp,
         } = node.frontmatter
-        const slug = `/${slugify(node.fields.slug)}`
+        const slug = `${node.fields.slug}`
         return (
           <NoteListItem
             title={title}

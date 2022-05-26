@@ -1,7 +1,6 @@
 const path = require('path')
 const fs = require('fs')
 const mkdirp = require('mkdirp')
-const slugify = require('@alexcarpenter/slugify')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const createOpenSearchFile = require('./src/utils/createOpenSearch')
 
@@ -91,8 +90,8 @@ exports.createPages = async ({ graphql, actions }, options) => {
   const slugifiedTags = globalTagsList.map((item) => {
     return {
       ...item,
-      slug: `/${slugify(item.tag)}`,
-      path: path.join(basePath, 'tag', slugify(item.tag)),
+      slug: `${item.tag}`,
+      path: path.join(basePath, 'tag', item.tag),
     }
   })
 
@@ -101,7 +100,7 @@ exports.createPages = async ({ graphql, actions }, options) => {
     const previous =
       index === notesData.length - 1 ? null : notesData[index + 1].node
     const next = index === 0 ? null : notesData[index - 1].node
-    const slug = slugify(note.node.fields.slug)
+    const slug = note.node.fields.slug
     createPage({
       path: slug,
       component: path.join(__dirname, './src/templates', 'Note.js'),

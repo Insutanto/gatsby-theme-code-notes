@@ -9,7 +9,7 @@ export const TagDot: FunctionComponent<{ tag?: string; size?: string }> = ({
 }) => {
   let tagColor
   if (tag) {
-    const tagName = slugify(tag)
+    const tagName = tag
     tagColor = getColourFromString(tagName)
   } else {
     tagColor = '#aaa'
