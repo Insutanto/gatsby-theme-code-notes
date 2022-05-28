@@ -6,12 +6,12 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: 'gatsby-theme-code-notes',
+      resolve: 'gatsby-theme-insutanto-code-notes',
       options: {
         contentPath: 'code-notes',
         basePath: '/',
         gitRepoContentPath:
-          'https://github.com/mrmartineau/gatsby-theme-code-notes/tree/master/example/code-notes/',
+          'https://github.com/Insutanto/gatsby-theme-code-notes/tree/insutanto-2.3.0/example/code-notes/',
         showDescriptionInSidebar: true,
         showThemeInfo: true,
         logo:

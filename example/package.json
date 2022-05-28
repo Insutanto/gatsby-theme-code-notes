@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": {
-    "name": "Zander Martineau",
-    "url": "https://zander.wtf"
+    "name": "Insutanto",
+    "url": "https://insutanto.net"
   },
   "license": "MIT",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "gatsby": "^3.3.1",
-    "gatsby-theme-code-notes": "*",
+    "gatsby-theme-insutanto-code-notes": "*",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
