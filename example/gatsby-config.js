@@ -6,7 +6,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: 'gatsby-theme-insutanto-code-notes',
+      resolve: 'gatsby-theme-code-notes',
       options: {
         contentPath: 'code-notes',
         basePath: '/',

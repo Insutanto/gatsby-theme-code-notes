@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-insutanto-code-notes",
+  "name": "gatsby-theme-code-notes",
   "description": "A Gatsby theme for publishing code-related notes and snippets",
   "version": "2.2.0",
   "main": "index.js",
