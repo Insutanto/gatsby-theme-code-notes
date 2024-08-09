@@ -14,11 +14,11 @@ modified: 2021-05-12T21:50:50.000Z
 
 ## 系列文章指北
 
-[Excel是什么](https://insutanto.net/code-notes/2021-05/ooxml/what-is-excel-xlsx)
+[Excel是什么](https://blog.insutanto.tech/code-notes/2021-05/ooxml/what-is-excel-xlsx)
 
-[详解Excel工作表(worksheet)](https://insutanto.net/code-notes/2021-05/ooxml/what-is-excel-worksheet)
+[详解Excel工作表(worksheet)](https://blog.insutanto.tech/code-notes/2021-05/ooxml/what-is-excel-worksheet)
 
-[详解Excel共享字符串(sharedStrings)](https://insutanto.net/code-notes/2021-05/ooxml/what-is-excel-sharedstrings)
+[详解Excel共享字符串(sharedStrings)](https://blog.insutanto.tech/code-notes/2021-05/ooxml/what-is-excel-sharedstrings)
 
 Todo: 详解Excel绘图(drawing)
 
@@ -175,7 +175,7 @@ mergeCell是一个合并单元格，属性中的 `ref` (Refrence) 表示的是�
 
 ### 联系其他组件
 
-这里介绍一些和工作表相关的组件，组件之间的联系，是通过联系组件实现的，如果不了解工作表组件是怎么与其他组件联系，请参考系列文章第一篇[Excel是什么](https://insutanto.net/code-notes/2021-05/ooxml/what-is-excel-xlsx)的相关内容。
+这里介绍一些和工作表相关的组件，组件之间的联系，是通过联系组件实现的，如果不了解工作表组件是怎么与其他组件联系，请参考系列文章第一篇[Excel是什么](https://blog.insutanto.tech/code-notes/2021-05/ooxml/what-is-excel-xlsx)的相关内容。
 
 **样式(style)组件：**
 

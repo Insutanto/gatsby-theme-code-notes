@@ -14,9 +14,9 @@ modified: 2021-06-15T21:50:50.000Z
 
 ## 系列指北
 
-[我谈技术管理(1)：技术管理是什么？](https://insutanto.net/code-notes/2021-06/techlead/what_is_tech_lead)
+[我谈技术管理(1)：技术管理是什么？](https://blog.insutanto.tech/code-notes/2021-06/techlead/what_is_tech_lead)
 
-[我谈技术管理(2)：我的经验](https://insutanto.net/code-notes/2021-06/techlead/my_experience)
+[我谈技术管理(2)：我的经验](https://blog.insutanto.tech/code-notes/2021-06/techlead/my_experience)
 
 ## 我的经验
 

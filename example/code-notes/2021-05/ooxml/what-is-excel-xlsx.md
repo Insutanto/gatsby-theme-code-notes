@@ -20,11 +20,11 @@ modified: 2021-05-10T21:50:50.000Z
 
 ## 系列文章指北
 
-[Excel是什么](https://insutanto.net/code-notes/2021-05/ooxml/what-is-excel-xlsx)
+[Excel是什么](https://blog.insutanto.tech/code-notes/2021-05/ooxml/what-is-excel-xlsx)
 
-[详解Excel工作表(worksheet)](https://insutanto.net/code-notes/2021-05/ooxml/what-is-excel-worksheet)
+[详解Excel工作表(worksheet)](https://blog.insutanto.tech/code-notes/2021-05/ooxml/what-is-excel-worksheet)
 
-[详解Excel共享字符串(sharedStrings)](https://insutanto.net/code-notes/2021-05/ooxml/what-is-excel-sharedstrings)
+[详解Excel共享字符串(sharedStrings)](https://blog.insutanto.tech/code-notes/2021-05/ooxml/what-is-excel-sharedstrings)
 
 Todo: 详解Excel绘图(drawing)
 

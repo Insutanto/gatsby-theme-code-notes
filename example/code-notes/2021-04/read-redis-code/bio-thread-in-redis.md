@@ -11,11 +11,11 @@ modified: 2021-04-20T21:50:50.000Z
 
 Redis 多线程源码分析系列:
 
-[Redis VM线程(Redis 1.3.x - Redis 2.4)](https://insutanto.net/code-notes/2021-04/read-redis-code/vm-thread-in-redis)
+[Redis VM线程(Redis 1.3.x - Redis 2.4)](https://blog.insutanto.tech/code-notes/2021-04/read-redis-code/vm-thread-in-redis)
 
-[Redis BIO线程(Redis 2.4+ 和 Redis 4.0+)](https://insutanto.net/code-notes/2021-04/read-redis-code/bio-thread-in-redis)
+[Redis BIO线程(Redis 2.4+ 和 Redis 4.0+)](https://blog.insutanto.tech/code-notes/2021-04/read-redis-code/bio-thread-in-redis)
 
-[Redis 网络IO线程(Redis 6.0+)](https://insutanto.net/code-notes/2021-04/read-redis-code/network-io-thread-in-redis)
+[Redis 网络IO线程(Redis 6.0+)](https://blog.insutanto.tech/code-notes/2021-04/read-redis-code/network-io-thread-in-redis)
 
 ## Redis BIO线程(Redis 2.4+)
 
